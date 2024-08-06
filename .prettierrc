@@ -1,5 +1,5 @@
 {
-  "bracketSpacing": false, //this line is added ---> git refresh knowladge
+  "bracketSpacing": false,
   "endOfLine": "lf",
   "htmlWhitespaceSensitivity": "css",
   "insertPragma": false,
