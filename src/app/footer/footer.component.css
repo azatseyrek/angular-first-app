@@ -1,0 +1,9 @@
+footer {
+  height: 80px;
+  background: #5d65aa;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
